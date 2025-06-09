@@ -1,7 +1,7 @@
 <h1 align="center">🎮 Bienvenido a mi Mundo Dev x Gamer! 👾</h1>
 
 <p align="center">
-  <img src="https://i.gifer.com/origin/8b/8b5d50762b5c34f0d4c8ed5f8c9efbba_w200.gif" width="220" alt="pixel hacker gif">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="220" alt="Pixel Hacker GIF">
 </p>
 
 ---
@@ -71,11 +71,11 @@ Gracias por pasar por aquí, ¡prepárate para más código, más habilidades y 
 
 <p align="center">
   <a href="mailto:mateo2811123@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" title="Email" width="40"/>
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" title="Email" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Aklan32" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/60/ffffff/github.png" alt="GitHub" title="GitHub" width="40"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" title="GitHub" width="40"/>
   </a>
 </p>
 
