@@ -1,122 +1,81 @@
-   ###   Hello World! :yellow_heart:
-<img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = 200/>
+### ¡Hola Mundo! :yellow_heart:
 
-<hr>
+<img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width="200"/>
 
-## My Skills :computer:
+---
 
-- **Programming Languages**
-<table>
-<tbody>
- <tr>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
-</td>
+## 🧠 Habilidades Técnicas
 
-<td align="center" width="50%">
-<img height=80px src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"> 
-</td>
-
-</tr>
-
-</tbody>
-</table>
-
-
-- **Web Development**
-<table>
-<tbody>
- <tr>
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=70px src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png"> 
-</td>
-
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> 
-</td>
-
-</tr>
-
- <tr>
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
-</td>
-
-</tr>
-
-</tbody>
-</table>
-
-<hr>
-
-## Currently Learning :beginner:
-
-- **Data Science**
+### 🖥️ Lenguajes de Programación
 
 <table>
-<tbody>
- <tr>
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=80px src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"> 
-</td>
-</tr>
-
-</tbody>
+  <tr>
+    <td align="center" width="50%">
+      <img height="60px" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python">
+    </td>
+    <td align="center" width="50%">
+      <img height="60px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java">
+    </td>
+  </tr>
 </table>
 
-- **Web Development**
+### 🌐 Desarrollo Web
+
 <table>
-<tbody>
- <tr>
-<td align="center" width="100%">
-<img height=60px src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
-</td>
-
-</tr>
-
-</tbody>
+  <tr>
+    <td align="center" width="33%">
+      <img height="60px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML5">
+    </td>
+    <td align="center" width="33%">
+      <img height="60px" src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png" alt="CSS3">
+    </td>
+    <td align="center" width="33%">
+      <img height="60px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server">
+    </td>
+  </tr>
 </table>
 
+---
 
-<hr>
+## 🚀 Actualmente Aprendiendo
 
-## Thank you for visiting my profile. You're a gem. :gem:
+- **Control de Versiones**
 
-![Visitor Count](https://profile-counter.glitch.me/EmmadiDivyaSrujana/count.svg)
+<table>
+  <tr>
+    <td align="center" width="100%">
+      <img height="60px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git">
+    </td>
+  </tr>
+</table>
 
-<hr>
+- **Desarrollo Web (Base de Datos)**
 
-## Connect with me. :smiley:
+<table>
+  <tr>
+    <td align="center" width="100%">
+      <img height="60px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server">
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🙌 ¡Gracias por visitar mi perfil!
+
+✨ Tu visita es una chispa más en mi camino como desarrollador. ¡Bienvenido a mi mundo de código! 🚀
+
+---
+
+## 📫 Conéctate conmigo
 
 <p>
-<a href="https://github.com/Aklan32"><img src="https://img.shields.io/badge/-Emmadi_Divya_Srujana-black?logo=github&style=flat-square"/></a>
-<a href="https://www.linkedin.com/in/emmadi-divya-srujana-19baa0182/"><img src="https://img.shields.io/badge/-Emmadi_Divya_Srujana-blue?logo=linkedin&style=flat-square"></a>
-<a href="https://instagram.com/divyasrujana?igshid=esstkghnur2d"><img src="https://img.shields.io/badge/-Divya_Srujana-pink?logo=instagram&style=flat-square"/></a>
-<a href="mailto:edsrujana1@gmail.com"><img src="https://img.shields.io/badge/-edsrujana1@gmail.com-black?logo=gmail&style=flat-square"/></a>
-<a href="https://twitter.com/divya_emmadi"><img src="https://img.shields.io/badge/-divya__emmadi-blue?logo=twitter&style=flat-square"/></a>
+  <a href="https://github.com/Aklan32"><img src="https://img.shields.io/badge/-Aklan32-black?logo=github&style=flat-square" alt="GitHub"/></a>
+  <a href="mailto:mateo2811123@gmail.com"><img src="https://img.shields.io/badge/-mateo2811123@gmail.com-red?logo=gmail&style=flat-square" alt="Gmail"/></a>
+  <!-- Agrega tu LinkedIn aquí cuando tengas el enlace -->
 </p>
 
------
-Credits: [EmmadiDivyaSrujana](https://github.com/EmmadiDivyaSrujana)
+---
 
-Last Edited on: 29/11/2020
+<!-- Puedes eliminar esta línea si no deseas atribución -->
+<!-- Last Edited on: 09/06/2025 --
