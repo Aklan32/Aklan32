@@ -1,7 +1,7 @@
 <h1 align="center">🎮 Bienvenido a mi Mundo Dev x Gamer! 👾</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width="250" alt="pixel gif">
+  <img src="https://media.giphy.com/media/2yx0Xo2ESaX1CMbJje/giphy.gif" width="300" alt="Gamer Dev Animation">
 </p>
 
 ---
@@ -71,12 +71,4 @@ Gracias por pasar por aquí, ¡prepárate para más código, más habilidades y 
 
 <p>
   <a href="https://github.com/Aklan32"><img src="https://img.shields.io/badge/-GitHub-Aklan32-black?logo=github&style=flat-square" alt="GitHub"/></a>
-  <a href="mailto:mateo2811123@gmail.com"><img src="https://img.shields.io/badge/-mateo2811123@gmail.com-red?logo=gmail&style=flat-square" alt="Gmail"/></a>
-  <!-- LinkedIn pronto... -->
-</p>
-
----
-
-<p align="center"><i>⚙️ Código, café y combos infinitos ⚙️</i></p>
-
-<!-- Last Edited: 09/06/2025 -->
+  <a hre
