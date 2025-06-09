@@ -1,5 +1,3 @@
-
-
 <h1 align="center">🎮 Bienvenido a mi Mundo Dev x Gamer! 👾</h1>
 
 <p align="center">
@@ -8,7 +6,7 @@
 
 ---
 
-## ⚔️ Mis Skills
+## ⚔️ Mis Skills de Batalla
 
 ### 🔤 Lenguajes que domino
 
