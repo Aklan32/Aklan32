@@ -1,81 +1,82 @@
-### ¡Hola Mundo! :yellow_heart:
+<h1 align="center">🎮 Bienvenido a mi Mundo Dev x Gamer! 👾</h1>
 
-<img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width="200"/>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width="250" alt="pixel gif">
+</p>
 
 ---
 
-## 🧠 Habilidades Técnicas
+## ⚔️ Mis Skills de Batalla
 
-### 🖥️ Lenguajes de Programación
+### 🔤 Lenguajes que domino
 
 <table>
   <tr>
     <td align="center" width="50%">
       <img height="60px" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python">
+      <br/>Python
     </td>
     <td align="center" width="50%">
       <img height="60px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java">
+      <br/>Java
     </td>
   </tr>
 </table>
 
-### 🌐 Desarrollo Web
+---
+
+### 💻 Arsenal Web
 
 <table>
   <tr>
     <td align="center" width="33%">
       <img height="60px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML5">
+      <br/>HTML5
     </td>
     <td align="center" width="33%">
       <img height="60px" src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png" alt="CSS3">
+      <br/>CSS3
     </td>
     <td align="center" width="33%">
       <img height="60px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server">
+      <br/>SQL Server
     </td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Actualmente Aprendiendo
+## 🧠 Subiendo de Nivel
 
-- **Control de Versiones**
+### 📚 Skills en entrenamiento
 
-<table>
-  <tr>
-    <td align="center" width="100%">
-      <img height="60px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git">
-    </td>
-  </tr>
-</table>
+- **Git y Control de Versiones**
+  
+  <img height="60px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git"/>
 
-- **Desarrollo Web (Base de Datos)**
+- **Back-end con Bases de Datos**
 
-<table>
-  <tr>
-    <td align="center" width="100%">
-      <img height="60px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server">
-    </td>
-  </tr>
-</table>
+  <img height="60px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server"/>
 
 ---
 
-## 🙌 ¡Gracias por visitar mi perfil!
+## 🎯 Logros y Progreso
 
-✨ Tu visita es una chispa más en mi camino como desarrollador. ¡Bienvenido a mi mundo de código! 🚀
+✨ Tu visita me da +1 de XP 💥  
+Gracias por pasar por aquí, ¡prepárate para más código, más habilidades y más aventuras dev-gamers! 🚀
 
 ---
 
-## 📫 Conéctate conmigo
+## 📡 Conéctate Conmigo
 
 <p>
-  <a href="https://github.com/Aklan32"><img src="https://img.shields.io/badge/-Aklan32-black?logo=github&style=flat-square" alt="GitHub"/></a>
+  <a href="https://github.com/Aklan32"><img src="https://img.shields.io/badge/-GitHub-Aklan32-black?logo=github&style=flat-square" alt="GitHub"/></a>
   <a href="mailto:mateo2811123@gmail.com"><img src="https://img.shields.io/badge/-mateo2811123@gmail.com-red?logo=gmail&style=flat-square" alt="Gmail"/></a>
-  <!-- Agrega tu LinkedIn aquí cuando tengas el enlace -->
+  <!-- LinkedIn pronto... -->
 </p>
 
 ---
 
-<!-- Puedes eliminar esta línea si no deseas atribución -->
-<!-- Last Edited on: 09/06/2025 --
+<p align="center"><i>⚙️ Código, café y combos infinitos ⚙️</i></p>
+
+<!-- Last Edited: 09/06/2025 -->
